@@ -1,0 +1,9 @@
+cachaca 5000
+limao 1000
+acucar 200
+gelo 7000
+cranberry 2000
+LicorDeLaranja 1000
+vodka 1000
+tequila 500
+sal 500
